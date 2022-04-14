@@ -1,8 +1,8 @@
 # Subdomain Project [1] - Resume
 
-> Project [0] - [kidow.me](https://github.com/kidow/blog)
-> Project [1] - [resume.kidow.me](https://github.com/kidow/resume)
-> Project [2] - [memo.kidow.me](https://github.com/kidow/memo)
+> - Project [0] - [kidow.me](https://github.com/kidow/blog)
+> - Project [1] - [resume.kidow.me](https://github.com/kidow/resume)
+> - Project [2] - [memo.kidow.me](https://github.com/kidow/memo)
 
 [링크](https://resume.kidow.me)
 
