@@ -11,7 +11,7 @@
 @layer base {
   html,
   body {
-    @apply bg-neutral-900 text-neutral-50 sm:text-lg;
+    @apply bg-neutral-900 text-neutral-50;
   }
   ul {
     @apply list-outside;
